@@ -1,0 +1,5 @@
+print addition program 
+a = insert value 
+b = insert second value
+c =  a+b 
+print c 
